@@ -1,0 +1,6 @@
+{
+  "name": "NOVA AI — Intelligent AI Chatbot Platform",
+  "description": "A modern, responsive AI chatbot platform powered by Google Gemini with persistent conversation history, real-time streaming responses, and document understanding.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
